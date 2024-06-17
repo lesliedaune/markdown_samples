@@ -1,0 +1,17 @@
+# Images Example
+
+## Inline Images
+ This is an inline image:
+ ![Demo](http://placehold.it/350x150)
+
+## Referenced Image
+Placehold.it is a nice place to get some placeholder graphics.
+
+![300-pixel squared placeholder](http://placehold.it/300)
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODk0ODM2MjBdfQ==
+-->

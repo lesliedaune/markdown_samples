@@ -1,0 +1,18 @@
+# Inline HTML
+
+Sometimes you need to add some inline HTML.
+<dl>
+  <dt>Markdown</dt>
+  <dd>An awesome plain-text format</dd>
+<dl>
+
+### Here is the code for a definition list in HTML
+
+    <dl>
+      <dt>Markdown</dt>
+      <dd>An awesome plain-text format</dd>
+    <dl>
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNDUzMTk2MTJdfQ==
+-->

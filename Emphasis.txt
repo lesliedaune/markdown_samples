@@ -1,0 +1,13 @@
+
+# Text Attributes Example
+
+In this sentence, I will _really_place
+"emphasis" on my words in two different ways.
+
+Next, I will write __very__, **strong** or bold text, also in two different ways.
+ 
+This example will contain an *intra*word emphasis. This is a variable name var *example* int but markdown will render 	emphasis by default.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTQyNjQwMTkxXX0=
+-->
